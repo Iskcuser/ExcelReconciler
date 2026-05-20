@@ -83,7 +83,7 @@ java com.excelchecker.Main
 
 ### 2. Operating the Application
 1. Choose Spreadsheet: Click the "Выбрать(Choose)..." button to open up the native file chooser and select your target .xlsx file.
-2. Map Columns: Input your alphabetical target columns inside Колонна 1 and Колонна 2 input parameters (e.g., column D and H).
+2. Map Columns: Input your alphabetical target columns inside "Колонна 1(Column 1)" and "Колонна 2(Column 2)" input parameters (e.g., column D and H).
 3. Run Comparison: Click "► Запустить(Launch)". The progress bar will reflect real-time progress.
 4. Review Output: Once processing is complete, a success dialog box will pop up summarizing the total count of processed rows and confirmed value matches. The newly painted spreadsheet will be saved next to your source file.
 
